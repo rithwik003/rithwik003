@@ -37,7 +37,7 @@
 
 <br/>
 
-[website]: https://rithwik003.github.io/
+[website]: https://rithwik003.github.io/portfolio.github.io/
 [twitter]: https://twitter.com/AmaraneniRithw1
 [linkedin]: https://www.linkedin.com/in/amaraneni-rithwik-6096b5217/
 [Leetcode]: https://leetcode.com/rithwik003/
