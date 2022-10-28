@@ -2,7 +2,7 @@
 <h2><u>INTRO </u></h2>
 
 - I am currently persuing my btech in school of computer science and engineering from Vellore Institute Of Technology Chennai.
-- I am having knowledge about Python, Java, C++, C, html, CSS.👨‍💻
+- I am having knowledge about Python, Java, C++, C, html, CSS, Javascript.👨‍💻
 - I am enthusiastic in discovering new things.
 - I am very much interested in contributing, coding, and in learning new things.💻
 <br>
@@ -15,6 +15,7 @@
 - C
 - html
 - CSS
+- Javascript
 <br>
 <h2 align="left"> <mark><u>Github Stats </u></mark></h3>
 <br/>  
