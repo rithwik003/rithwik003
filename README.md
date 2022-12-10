@@ -40,6 +40,6 @@
 
 [website]: https://rithwik003.github.io/portfolio.github.io/
 [twitter]: https://twitter.com/AmaraneniRithw1
-[linkedin]: https://www.linkedin.com/in/amaraneni-rithwik-6096b5217/
+[linkedin]: https://www.linkedin.com/in/rithwik-amaraneni-6096b5217/
 [Leetcode]: https://leetcode.com/rithwik003/
 [GeeksforGeeks]: https://auth.geeksforgeeks.org/user/amaranenirithwik/
