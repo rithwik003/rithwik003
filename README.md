@@ -26,7 +26,7 @@
 
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=rithwik003&theme=react-dark)
+![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=rithwik003&theme=react-dark)
 <br/>
 
 ### Connect
