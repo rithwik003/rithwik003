@@ -26,7 +26,8 @@
 
 <br>
 
-![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=rithwik003&theme=react-dark)
+<!--![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=rithwik003&theme=react-dark)-->
+  [![Rithwik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rithwik003&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/rithwik003/github-readme-activity-graph)
 <br/>
 
 ### Connect
