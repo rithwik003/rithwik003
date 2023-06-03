@@ -20,14 +20,14 @@
 <h2 align="left"> <mark><u>Github Stats </u></mark></h3>
 <br/>  
 <p align="center">
-<a href="https://newgithub-readme-stats.vercel.app/api?username=rithwik03&show_icons=true&count_private=true&theme=merko">
+<a href="https://newgithub-readme-stats.vercel.app/api?username=rithwik003&show_icons=true&count_private=true&theme=merko">
   <img  src="https://newgithub-readme-stats.vercel.app/api?username=rithwik003&show_icons=true&count_private=true&theme=merko"  />
 </a>
 
 <br>
 
 <!--![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=rithwik003&theme=react-dark)-->
-  [![Rithwik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rithwik003&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/rithwik003/github-readme-activity-graph)
+  [![Rithwik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rithwik003&bg_color=121212&color=4c869e&line=4c919e&point=888686&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 
 ### Connect
