@@ -1,7 +1,7 @@
 <h1 align="center"> Hello all, I am Rithwik 👋</h1>
 <h2><u><b>INTRO</b> </u></h2>
 
-- I am currently persuing my btech in school of computer science and engineering from Vellore Institute Of Technology.
+- I am currently persuing my B.Tech in school of computer science and engineering from Vellore Institute Of Technology.
 - Proficient in Python, Java, C++, C, HTML, CSS, JavaScript, and various tools such as Bootstrap, OpenCV, and Git, I possess a strong passion for coding 👨‍💻 and a relentless pursuit of knowledge.
 - I possess an unwavering curiosity and a relentless drive for continuous learning, which fuels my passion for exploring and embracing new horizons within the field.
 - With a focus on contributing to meaningful projects, I am eager to leverage my diverse skill set and enthusiasm for learning💻 to make a valuable impact.
