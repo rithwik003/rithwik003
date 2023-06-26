@@ -16,6 +16,12 @@
 - html
 - CSS
 - Javascript
+- bootstrap
+- opencv
+- pywhatkit
+- DSA
+- MYSQl
+- php
 <br>
 <h2 align="left"> <mark><u>Github Stats </u></mark></h3>
 <br/>  
