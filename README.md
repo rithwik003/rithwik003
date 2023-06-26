@@ -1,29 +1,26 @@
 <h1 align="center"> Hello all, I am Rithwik 👋</h1>
 <h2><u><b>INTRO</b> </u></h2>
 
-- I am currently persuing my btech in school of computer science and engineering from Vellore Institute Of Technology Chennai.
-- I am having knowledge about Python, Java, C++, C, html, CSS, Javascript.👨‍💻
-- I am enthusiastic in discovering new things.
-- I am very much interested in contributing, coding, and in learning new things.💻
+- I am currently persuing my btech in school of computer science and engineering from Vellore Institute Of Technology.
+- Proficient in Python, Java, C++, C, HTML, CSS, JavaScript, and various tools such as Bootstrap, OpenCV, and Git, I possess a strong passion for coding 👨‍💻 and a relentless pursuit of knowledge.
+- I possess an unwavering curiosity and a relentless drive for continuous learning, which fuels my passion for exploring and embracing new horizons within the field.
+- With a focus on contributing to meaningful projects, I am eager to leverage my diverse skill set and enthusiasm for learning💻 to make a valuable impact.
 <br>
 
 <h2 align="left"><b> Skills </b></h2>
 
-- Python
-- Java
-- C++
-- C
-- html
-- CSS
-- Javascript
-- bootstrap
-- opencv
-- pywhatkit
-- DSA
-- MYSQl
-- php
-- LaTeX
-- Git
+| Programming Languages | Tools & Frameworks |
+|-----------------------|--------------------|
+| Python                | Bootstrap         |
+| Java                  | OpenCV            |
+| C++                   | Pywhatkit         |
+| C                     | DSA               |
+| HTML                  | MySQL             |
+| CSS                   | PHP               |
+| JavaScript            | LaTeX             |
+| R                     | Git               |
+| MATLAB                | Node.js           |
+
 <br>
 <h2 align="left"> <mark><u><b>Github Stats </b></u></mark></h3>
 <br/>  
