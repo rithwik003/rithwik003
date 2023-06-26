@@ -1,5 +1,5 @@
 <h1 align="center"> Hello all, I am Rithwik 👋</h1>
-<h2><u>INTRO </u></h2>
+<h2><u><b>INTRO</b> </u></h2>
 
 - I am currently persuing my btech in school of computer science and engineering from Vellore Institute Of Technology Chennai.
 - I am having knowledge about Python, Java, C++, C, html, CSS, Javascript.👨‍💻
@@ -7,7 +7,7 @@
 - I am very much interested in contributing, coding, and in learning new things.💻
 <br>
 
-<h2 align="left"> Skills </h2>
+<h2 align="left"><b> Skills </b></h2>
 
 - Python
 - Java
@@ -22,8 +22,10 @@
 - DSA
 - MYSQl
 - php
+- LaTeX
+- Git
 <br>
-<h2 align="left"> <mark><u>Github Stats </u></mark></h3>
+<h2 align="left"> <mark><u><b>Github Stats </b></u></mark></h3>
 <br/>  
 <p align="center">
 <a href="https://newgithub-readme-stats.vercel.app/api?username=rithwik003&show_icons=true&count_private=true&theme=merko">
@@ -37,7 +39,7 @@
 <br/>
 
 ### Connect
-[<img align="left" alt="rithwik" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="rithwik" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
 [<img align="left" alt="rithwik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="rithwik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="rithwik | Leetcode" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][Leetcode]
@@ -45,7 +47,7 @@
 
 <br/>
 
-[website]: https://rithwik003.github.io/portfolio.github.io/
+[website]: https://rithwik003.000webhostapp.com/
 [twitter]: https://twitter.com/AmaraneniRithw1
 [linkedin]: https://www.linkedin.com/in/rithwik-amaraneni-6096b5217/
 [Leetcode]: https://leetcode.com/rithwik003/
