@@ -1,13 +1,14 @@
+<h1 align="center"> Hey Hii, I am Rithwik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+
 <div id="header" align="center" >
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnliMWtjdHRjNjd1aThkcmF6bXAwYXUwemtmN2FnN284Z2YwdXFybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" width="30%"  />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnliMWtjdHRjNjd1aThkcmF6bXAwYXUwemtmN2FnN284Z2YwdXFybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" width="40%" height="300vh" />
 </div>
-<br>
 
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=rithwik003&style=flat-square&color=green" alt="views"/>
 </div>
 
-<h1 align="center"> Hey Hi, I am Rithwik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+
 <h2><u><b>INTRO</b> </u></h2>
 
 - I am currently persuing my B.Tech in school of computer science and engineering from Vellore Institute Of Technology.
