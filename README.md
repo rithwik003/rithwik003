@@ -1,4 +1,13 @@
-<h1 align="center"> Hello all, I am Rithwik 👋</h1>
+<div id="header" align="center" >
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnliMWtjdHRjNjd1aThkcmF6bXAwYXUwemtmN2FnN284Z2YwdXFybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" width="30%"  />
+</div>
+<br>
+
+<div id="header" align="center">
+<img src="https://komarev.com/ghpvc/?username=rithwik003&style=flat-square&color=green" alt="views"/>
+</div>
+
+<h1 align="center"> Hey Hi, I am Rithwik <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 <h2><u><b>INTRO</b> </u></h2>
 
 - I am currently persuing my B.Tech in school of computer science and engineering from Vellore Institute Of Technology.
@@ -25,15 +34,24 @@
 <h2 align="left"> <mark><u><b>Github Stats </b></u></mark></h3>
 <br/>  
 <p align="center">
-<a href="https://newgithub-readme-stats.vercel.app/api?username=rithwik003&show_icons=true&count_private=true&theme=merko">
-  <img  src="https://newgithub-readme-stats.vercel.app/api?username=rithwik003&show_icons=true&count_private=true&theme=merko"  />
+<a href="https://newgithub-readme-stats.vercel.app/api?username=rithwik003&show_icons=true&count_private=true&theme=vue-dark">
+  <img  src="https://newgithub-readme-stats.vercel.app/api?username=rithwik003&show_icons=true&count_private=true&theme=vue-dark"  /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rithwik003&theme=vue-dark&hide_border=true"/><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithwik003&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 </a>
+
+
 
 <br>
 
-<!--![github graph](https://github-readme-activity-graph.cyclic.app/graph?username=rithwik003&theme=react-dark)-->
-  [![Rithwik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rithwik003&bg_color=121212&color=4c869e&line=4c919e&point=888686&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+  [![rithwik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rithwik003&theme=vue)](https://github.com/rithwik003/github-readme-activity-graph)
 <br/>
+
 
 ### Connect
 [<img align="left" alt="rithwik" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />][website]
