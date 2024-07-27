@@ -4,9 +4,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnliMWtjdHRjNjd1aThkcmF6bXAwYXUwemtmN2FnN284Z2YwdXFybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" width="40%" height="300vh" />
 </div>
 
-<div id="header" align="center">
-<img src="https://komarev.com/ghpvc/?username=rithwik003&style=flat-square&color=green" alt="views"/>
-</div>
+
 
 
 <h2><u><b>INTRO</b> </u></h2>
