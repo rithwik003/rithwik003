@@ -9,10 +9,25 @@
 
 <h2><u><b>INTRO</b> </u></h2>
 
-- I am currently persuing my B.Tech in school of computer science and engineering from Vellore Institute Of Technology.
+<!-- I am currently persuing my B.Tech in school of computer science and engineering from Vellore Institute Of Technology.
 - Proficient in Python, Java, C++, C, HTML, CSS, JavaScript, and various tools such as Bootstrap, OpenCV, and Git, I possess a strong passion for coding 👨‍💻 and a relentless pursuit of knowledge.
 - I possess an unwavering curiosity and a relentless drive for continuous learning, which fuels my passion for exploring and embracing new horizons within the field.
-- With a focus on contributing to meaningful projects, I am eager to leverage my diverse skill set and enthusiasm for learning💻 to make a valuable impact.
+- With a focus on contributing to meaningful projects, I am eager to leverage my diverse skill set and enthusiasm for learning💻 to make a valuable impact.-->
+
+👋 **Hi, I'm Rithwik Amaraneni!**
+🚀 Passionate Full-Stack Developer | Problem Solver | Tech Enthusiast  
+
+- 🌱 Currently honing my skills in Data Structures, Algorithms, and Full-Stack Development.
+- 👨‍💻 I have hands-on experience with technologies like **React, Node.js, Express, and MongoDB**.
+- 🎓 Final-year Computer Science student at **VIT Chennai**.
+- 💡 Worked on diverse projects like an **Amazon Product Price Tracker**, a **Property Management Web App**, and a **Live Video Background Changer**.
+- 🌍 Contributor to open-source and active participant in hackathons.
+- 🏆 Ranked **Top 12 Globally** in **HackSquad 2022** and **AIR 43 in LPUNEST 2021**.
+- 📝 I love sharing knowledge through articles, code samples, and project contributions.
+
+Let's connect and collaborate on exciting projects!  
+🔗 [LinkedIn](https://www.linkedin.com/in/rithwik-amaraneni-6096b5217/) | [Email](mailto:amaraneni.rithwik@gmail.com)
+
 <br>
 
 <h2 align="left"><b> Skills </b></h2>
